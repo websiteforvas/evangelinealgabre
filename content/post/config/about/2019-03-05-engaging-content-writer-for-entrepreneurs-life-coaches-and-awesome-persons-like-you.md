@@ -15,7 +15,7 @@ a_about:
     b_org_two:
       a_org_2: ''
     c_org_three: {}
-  e_interests: 'Content Writing, SEO, Copy writing, Translation'
+  e_interests: 'Content Writing, SEO, Copywriting, Translation'
   f_biography:
     b_bio: >-
       I'm an engaging freelance writer for two years now. I work with
