@@ -50,9 +50,9 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "info@yourname.com"
-phone = "+63 999 999 9999"
-address = "Manila"
+email = "vangie.algabre@gmail.com"
+phone = "+639672838390"
+address = "Davao City"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 office_hours = ""
@@ -64,7 +64,7 @@ appointment_url = ""
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
   {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/yourname"},
-  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:yourname?call"},
+  {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:vangie.algabre1?call"},
   {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/yourname"},
   # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
