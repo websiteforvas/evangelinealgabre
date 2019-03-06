@@ -3,8 +3,8 @@
 widget = "featurette"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Skills"
-subtitle = "Your Skills"
+title = "Professional Services"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 7
